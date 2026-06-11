@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "99-names",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/tmp/serve99.py", "/tmp/99names-www"],
+      "port": 4173,
+      "autoPort": true
+    }
+  ]
+}
